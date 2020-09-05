@@ -1,4 +1,4 @@
-class java_file
+class Java_file
 {
   public static void main(string[] args)
   {
